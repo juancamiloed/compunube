@@ -1,0 +1,13 @@
+version: "3"
+services:
+  vsftpd:
+    image: panubo/vsftpd
+    environment:
+      - FTP_USER=admin
+      - FTP_PASSWORD=admin123
+    ports:
+      - "8021:21"
+      - "8020:20"
+    volumes:
+        - /root/compose/data:/srv
+    #network_mode: host
