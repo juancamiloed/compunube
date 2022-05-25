@@ -1,0 +1,131 @@
+2022-05-24 20:01:52,007 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-05-24 20:01:52,057 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/5.4.3/libexec/bin/user.properties
+2022-05-24 20:01:52,059 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.4.3/libexec/bin/system.properties
+2022-05-24 20:01:52,071 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-05-24 20:01:52,071 INFO o.a.j.JMeter: Version 5.4.3
+2022-05-24 20:01:52,072 INFO o.a.j.JMeter: java.version=17.0.2
+2022-05-24 20:01:52,072 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2022-05-24 20:01:52,072 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-05-24 20:01:52,073 INFO o.a.j.JMeter: os.arch=x86_64
+2022-05-24 20:01:52,073 INFO o.a.j.JMeter: os.version=12.1
+2022-05-24 20:01:52,073 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-05-24 20:01:52,073 INFO o.a.j.JMeter: java.awt.headless=true
+2022-05-24 20:01:52,074 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-05-24 20:01:52,074 INFO o.a.j.JMeter: Available Processors =4
+2022-05-24 20:01:52,096 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-05-24 20:01:52,096 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-05-24 20:01:52,097 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.4.3/libexec
+2022-05-24 20:01:52,097 INFO o.a.j.JMeter: user.dir  =/Users/juancamiloespinosa/compunube/parcial_final_jmeter/jmeter
+2022-05-24 20:01:52,097 INFO o.a.j.JMeter: PWD       =/Users/juancamiloespinosa/compunube/parcial_final_jmeter/jmeter
+2022-05-24 20:01:52,101 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: MacBook-Air-de-Juan-7.local FullName: localhost
+2022-05-24 20:01:52,111 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'/Users/juancamiloespinosa/compunube/parcial_final_jmeter/jmeter/htmls/reporte1'
+2022-05-24 20:01:52,120 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2022-05-24 20:01:52,121 INFO o.a.j.r.d.ReportGenerator: Will only generate report from results file: /Users/juancamiloespinosa/compunube/parcial_final_jmeter/jmeter/csvs/resultado1.csv
+2022-05-24 20:01:52,121 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: /usr/local/Cellar/jmeter/5.4.3/libexec/bin/reportgenerator.properties
+2022-05-24 20:01:52,123 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2022-05-24 20:01:52,133 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2022-05-24 20:01:52,141 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2022-05-24 20:01:52,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2022-05-24 20:01:52,166 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2022-05-24 20:01:52,167 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2022-05-24 20:01:52,167 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2022-05-24 20:01:52,167 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2022-05-24 20:01:52,168 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2022-05-24 20:01:52,169 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2022-05-24 20:01:52,178 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,178 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,179 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,179 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,179 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,179 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,180 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,180 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,180 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,180 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2022-05-24 20:01:52,182 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2022-05-24 20:01:52,182 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2022-05-24 20:01:52,182 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2022-05-24 20:01:52,183 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2022-05-24 20:01:52,183 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2022-05-24 20:01:52,184 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2022-05-24 20:01:52,649 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-05-24 20:01:52,754 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-05-24 20:01:52,764 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-05-24 20:01:52,843 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2022-05-24 20:01:53,657 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2022-05-24 20:01:53,658 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2022-05-24 20:01:53,662 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2022-05-24 20:01:53,663 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2022-05-24 20:01:53,686 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2022-05-24 20:01:53,693 ERROR o.a.j.JMeter: An error occurred: 
+org.apache.jmeter.report.dashboard.GenerationException: Error while processing samples: Consumer failed with message :Consumer failed with message :Consumer failed with message :Consumer failed with message :Begin size 2 is not equal to fixed size 5
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:242) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.JMeter.start(JMeter.java:558) [ApacheJMeter_core.jar:5.4.3]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:254) [ApacheJMeter.jar:5.4.3]
+Caused by: org.apache.jmeter.report.core.SampleException: Consumer failed with message :Consumer failed with message :Consumer failed with message :Consumer failed with message :Begin size 2 is not equal to fixed size 5
+	at org.apache.jmeter.report.processor.CsvFileSampleSource$PrivateProducer.stopProducing(CsvFileSampleSource.java:338) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.produce(CsvFileSampleSource.java:182) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.run(CsvFileSampleSource.java:235) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:240) ~[ApacheJMeter_core.jar:5.4.3]
+	... 6 more
+Caused by: org.apache.jmeter.report.core.SampleException: Consumer failed with message :Consumer failed with message :Consumer failed with message :Begin size 2 is not equal to fixed size 5
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:244) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.NormalizerSampleConsumer.stopConsuming(NormalizerSampleConsumer.java:125) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource$PrivateProducer.stopProducing(CsvFileSampleSource.java:335) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.produce(CsvFileSampleSource.java:182) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.run(CsvFileSampleSource.java:235) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:240) ~[ApacheJMeter_core.jar:5.4.3]
+	... 6 more
+Caused by: org.apache.jmeter.report.core.SampleException: Consumer failed with message :Consumer failed with message :Begin size 2 is not equal to fixed size 5
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:244) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.FilterConsumer.stopConsuming(FilterConsumer.java:111) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:241) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.NormalizerSampleConsumer.stopConsuming(NormalizerSampleConsumer.java:125) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource$PrivateProducer.stopProducing(CsvFileSampleSource.java:335) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.produce(CsvFileSampleSource.java:182) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.run(CsvFileSampleSource.java:235) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:240) ~[ApacheJMeter_core.jar:5.4.3]
+	... 6 more
+Caused by: org.apache.jmeter.report.core.SampleException: Consumer failed with message :Begin size 2 is not equal to fixed size 5
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:244) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.FilterConsumer.stopConsuming(FilterConsumer.java:111) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:241) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.FilterConsumer.stopConsuming(FilterConsumer.java:111) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:241) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.NormalizerSampleConsumer.stopConsuming(NormalizerSampleConsumer.java:125) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource$PrivateProducer.stopProducing(CsvFileSampleSource.java:335) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.produce(CsvFileSampleSource.java:182) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.run(CsvFileSampleSource.java:235) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:240) ~[ApacheJMeter_core.jar:5.4.3]
+	... 6 more
+Caused by: java.lang.IllegalStateException: Begin size 2 is not equal to fixed size 5
+	at java.util.stream.Nodes$FixedNodeBuilder.begin(Nodes.java:1214) ~[?:?]
+	at java.util.stream.Sink$ChainedReference.begin(Sink.java:253) ~[?:?]
+	at java.util.stream.SliceOps$1$1.begin(SliceOps.java:192) ~[?:?]
+	at java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:354) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:528) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) ~[?:?]
+	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) ~[?:?]
+	at org.apache.jmeter.report.processor.Top5ErrorsSummaryData.getTop5ErrorsMetrics(Top5ErrorsSummaryData.java:82) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer.createDataResult(Top5ErrorsBySamplerConsumer.java:97) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer.createDataResult(Top5ErrorsBySamplerConsumer.java:29) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSummaryConsumer.createResultFromKey(AbstractSummaryConsumer.java:200) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSummaryConsumer.stopConsuming(AbstractSummaryConsumer.java:261) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:241) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.FilterConsumer.stopConsuming(FilterConsumer.java:111) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:241) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.FilterConsumer.stopConsuming(FilterConsumer.java:111) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.AbstractSampleConsumer.stopProducing(AbstractSampleConsumer.java:241) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.NormalizerSampleConsumer.stopConsuming(NormalizerSampleConsumer.java:125) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource$PrivateProducer.stopProducing(CsvFileSampleSource.java:335) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.produce(CsvFileSampleSource.java:182) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.run(CsvFileSampleSource.java:235) ~[ApacheJMeter_core.jar:5.4.3]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:240) ~[ApacheJMeter_core.jar:5.4.3]
+	... 6 more
